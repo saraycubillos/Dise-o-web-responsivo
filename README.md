@@ -1,2 +1,2 @@
-# Dise-o-web-responsivo
+# Diseño web responsivo
 Se comienza con programación HTML a fondo con una página de gatos
